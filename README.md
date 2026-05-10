@@ -220,6 +220,15 @@ A large language model could improve using private user interactions locally whi
 
 ---
 
+# Research Poster
+
+<a href="./Krishaan Chaudhary - Rutgers Mathematical Optimization Research Group Research Poster.pdf">
+  <img src="./pres.png" width="300">
+</a>
+
+[Poster: Promoting Vector Sparsity with Proximal L1 Regularization
+in Federated Learning for Heterogeneous Datasets](Krishaan Chaudhary - Rutgers Mathematical Optimization Research Group Research Poster.pdf)
+
 # Acknowledgments
 
 Special thanks to:
