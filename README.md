@@ -65,9 +65,9 @@ F(x)=L(x)+\eta \|x-x_g\|^2
 ```
 
 where:
-- \(L(x)\) is the local client loss,
-- \(x_g\) is the current global model,
-- \(\eta\) controls how strongly local models are constrained toward the global model.
+- ```math\(L(x)\)``` is the local client loss,
+- ```math\(x_g\)``` is the current global model,
+- ```math\(\eta\)``` controls how strongly local models are constrained toward the global model.
 
 ### Intuition
 
