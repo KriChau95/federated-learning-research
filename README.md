@@ -227,7 +227,7 @@ A large language model could improve using private user interactions locally whi
 </a>
 
 [Poster: Promoting Vector Sparsity with Proximal L1 Regularization
-in Federated Learning for Heterogeneous Datasets](Krishaan Chaudhary - Rutgers Mathematical Optimization Research Group Research Poster.pdf)
+in Federated Learning for Heterogeneous Datasets]
 
 # Acknowledgments
 
