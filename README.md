@@ -84,7 +84,7 @@ This improves:
 
 To encourage sparse global models, we replace the standard aggregation update with the proximal operator of the L1 norm.
 
-The proximal mapping performs soft-thresholding
+The proximal mapping performs soft-thresholding.
 
 ### Intuition
 
