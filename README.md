@@ -65,9 +65,9 @@ F(x)=L(x)+\eta \|x-x_g\|^2
 ```
 
 where:
-- ```math\(L(x)\)``` is the local client loss,
-- ```math\(x_g\)``` is the current global model,
-- ```math\(\eta\)``` controls how strongly local models are constrained toward the global model.
+- L(x) is the local client loss,
+- x_g is the current global model,
+- η controls how strongly local models are constrained toward the global model.
 
 ### Intuition
 
@@ -188,23 +188,23 @@ Applying the L1 proximal operator:
 
 ## 2. Hyperparameter Sensitivity Matters
 
-### L1 Regularization Parameter (\(\lambda\))
+### L1 Regularization Parameter λ
 
-- Large \(\lambda\):
+- Large λ
   - aggressively forces parameters to zero,
   - may prevent learning entirely.
 
-- Small \(\lambda\):
+- Small λ
   - preserves learning dynamics,
   - still promotes meaningful sparsity.
 
-### FedProx Parameter (\(\eta\))
+### FedProx Parameter η
 
-- Larger \(\eta\):
+- Larger η:
   - stronger pull toward the global model,
   - improves consistency.
 
-- Smaller \(\eta\):
+- Smaller η:
   - minimal effect on training.
 
 ---
